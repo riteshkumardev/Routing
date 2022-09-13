@@ -1,0 +1,79 @@
+.getdata1{
+    background-color: aquamarine;
+    width: 30%;
+    margin-left: 30%;
+    border-radius: 18px;
+    text-align: center;
+}
+.getdata2{
+    background-color: rgb(232, 255, 127);
+    margin-left: 20%;
+    text-align: center;
+ width: 30%;
+ border-radius: 18px;
+}
+.getdata3{
+    background-color: rgb(49, 170, 240);
+    margin-left: 20%;
+    text-align: center;
+ width: 30%;
+ border-radius: 18px;
+}
+.getdata4{
+    background-color: rgb(52, 235, 122);
+    margin-left: 20%;
+    text-align: center;
+    border-radius: 18px;
+ width: 30%;
+}
+.getdata5{
+    background-color: rgb(211, 72, 181);
+    margin-left: 20%;
+    text-align: center;
+    border-radius: 18px;
+ width: 30%;
+}
+.getdata6{
+    background-color: rgb(245, 118, 45);
+    margin-left: 20%;
+    text-align: center;
+    border-radius: 18px;
+ width: 30%;
+}
+.getdataimage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.table{
+text-align: center;
+}
+.Apih1{
+    text-align: center;
+    color: rgb(28, 13, 236);
+}
+.deletebtnapi{
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(214, 21, 21);
+    color: white;
+}
+.apiedit{
+    margin-left: 25%;
+   
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(34, 21, 214);
+    color: white;
+}
+.apipr{
+margin-left: 25%;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(34, 21, 214);
+    color: white;
+}

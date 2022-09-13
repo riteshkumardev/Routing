@@ -1,0 +1,66 @@
+.Homemaindiv{
+    background-color: rgb(194, 196, 197);
+    height: 550px;
+}
+.Todo{
+background-color: rgb(78, 78, 241);
+color: rgb(255, 0, 0);
+text-align: center;
+width: 400px;
+margin-left: 25%;
+border-radius: 10px;
+}
+.Shoping{
+background-color: aqua;
+color: darkred;
+text-align: center;
+width: 400px;
+margin-left: 30%;
+border-radius: 10px;
+}
+.Form{
+background-color: blueviolet;
+color: rgb(8, 8, 8);
+text-align: center;
+width: 400px;
+margin-left: 25%;
+border-radius: 10px;
+}
+.Debit{
+background-color: darkgreen;
+color: rgb(129, 24, 50);
+text-align: center;
+width: 400px;
+margin-left: 30%;
+border-radius: 10px;
+}
+.Api{
+background-color: darkgoldenrod;
+color: red;
+text-align: center;
+width: 400px;
+margin-left: 25%;
+border-radius: 10px;
+}
+.Counter{
+background-color: hotpink;
+color: rgb(211, 24, 248);
+text-align: center;
+width: 400px;
+margin-left: 30%;
+border-radius: 10px;
+}
+.hader1{
+   margin-left: 10%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 80%;
+    border-radius: 10px;
+}
+/* Todo List
+Shoping Cart
+Form Handleing
+Debit Card
+Api Calling
+Counter */

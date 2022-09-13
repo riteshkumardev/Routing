@@ -1,0 +1,86 @@
+{
+  "electronics": [
+    
+    {
+      "title": "Smart Watch",
+      "Price": "RS 2,000",
+      "id":"13",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/xcm_banners_01_feb22_564x564_in-en._CB628916123_.jpg"
+    },
+    {
+      "title": "SanDisk Pandrive",
+      "Price": "RS 1,600",
+      "id":"14",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/SBC/xcm_banners_13_sbc_v1_564x564_in-en._CB657839269_.jpg"
+    },
+    {
+      "title": "Hadphone",
+      "Price": "RS 4,999",
+      "id":"15",
+      "image": "https://burst.shopifycdn.com/photos/wireless-headphones.jpg?width=1200&format=pjpg&exif=1&iptc=1"
+    },
+    {
+      "title": "Wireless headphones",
+      "Price": "RS 1,999",
+      "id":"16",
+      "image": "https://image.shutterstock.com/image-photo/light-green-wireless-headphones-box-260nw-2049136982.jpg"
+    }
+    
+  ],
+  "mens": [
+    
+    {
+      "title": "Brickell",
+      "Price": "RS 199",
+      "id":"17",
+      "image": "https://image.shutterstock.com/image-illustration/collection-black-male-cosmetic-grooming-260nw-1610305447.jpg"
+    },
+    {
+      "title": "Shaving-foam ",
+      "Price": "RS 299",
+      "id":"18",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/221294/bombay-shaving-company-charcoal-shaving-foam-266-ml_9_display_1654256920_5618a9ca.jpg"
+    },
+    {
+      "title": "Centrum",
+      "Price": "RS 99",
+      "id":"19",
+      "image": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/global/products/NewLook-Centrum-Men.jpg?auto=format"
+    },
+    {
+      "title": "Facial Fuel",
+      "Price": "RS 249",
+      "id":"20",
+      "image": "https://media.vogue.co.uk/photos/5fdce5116058f6ef047b991f/master/w_1920,h_1280,c_limit/Mens%20beauty%2010.jpg"
+    }
+
+  ],
+  "homeAndFurniture": 
+  [
+   
+    {
+      "title": "Dining Table With Set",
+      "Price": "RS 14,999",
+      "id":"21",
+      "image": "https://www.ulcdn.net/images/products/258415/slide/666x363/Lawson_4_Seater_Dining_Table_Set_1.jpg?1550722285"
+    },
+    {
+      "title": "Dining Chair Set ",
+      "Price": "RS 9,999",
+      "id":"22",
+      "image": "https://nowjakarta.co.id/uploads/ckeditor/pictures/7343/content__dsc5668__1_.jpg"
+    },
+    {
+      "title": "Theramedic",
+      "Price": "RS 12,899",
+      "id":"23",
+      "image": "https://www.ulcdn.net/images/products/370010/slide/666x363/Theramedic_Coir___Foam_Mattress_07.jpg?1628523124"
+    },
+    {
+      "title": "Bench In Sangria",
+      "Price": "RS 12,499",
+      "id":"24",
+      "image": "https://www.ulcdn.net/images/products/81784/slide/666x363/Carson_Upholstered_Storage_Bench_Sangira_Red_01.jpg?1458736403"
+    }
+  ]
+}

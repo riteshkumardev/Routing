@@ -1,0 +1,142 @@
+.navbar {
+
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.navbar>div {
+   
+    padding: 10px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.products {
+ 
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    /* border: 1px solid red; */
+    /* padding: 0 !important; */
+    margin-left: -15px !important;
+    
+   
+    /* margin-top: 90px; */
+    
+}
+.productItem{
+    text-align: center;
+    margin-top: 100px;
+}
+.products>button {
+    margin-left: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    /* display: flex; */
+    position: fixed;
+    
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+}
+.addToCartBtn{
+    width: 150px;
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background: linear-gradient(green,white,red);
+    color: black;
+    font-size: large;
+
+}
+.cartitem{
+    background-color: rgb(188, 240, 168);
+    /* border: 3px double red; */
+    /* margin-left: 20px; */
+    border-radius: 20px;
+   
+    
+}
+/* .btn{
+    width: 50px;
+    margin: auto;
+} */
+.btn >button{
+    width: 50px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-right: 10px;
+   margin-left: 60px;
+   border-radius: 10px;
+   background: linear-gradient(green,white,red);
+   color: black;
+   font-size: large;
+}
+.item{
+   margin-left: 50px !important;
+   margin-top: 100px !important;
+
+}
+.product{
+    border: 1px solid green;
+    margin-right: 20px !important;
+    margin-bottom: 20px !important;
+    border-radius: 10px;
+    text-align: center;
+}
+.productdiv{
+    margin-left: 10px;
+  /* border: 1px solid red; */
+  width: 300px;
+  text-align: center;
+ border-radius: 8px;
+    display: grid;
+    background-color: rgb(188, 240, 168);
+    grid-template-columns: auto auto auto auto;
+
+
+    
+}
+.title{
+    text-align: center;
+margin-left: 75px;
+color: rgb(6, 18, 190);
+display: inline-flex;
+/* border: 1px solid red; */
+width: 200px;
+}
+.price{
+    margin-left: 75px;
+color: rgb(6, 18, 190);
+display: inline-flex;
+/* border: 1px solid red; */
+width: 200px;
+}
+.Grid2{
+    display: grid;
+    /* background-color: rgb(188, 240, 168); */
+    grid-template-columns: auto auto ;
+}
+.Grid6{
+    display: grid;
+    background-color: rgb(188, 240, 168);
+    grid-template-columns: auto auto auto auto;
+}
